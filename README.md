@@ -5,6 +5,7 @@ https://github.com/hramz/hramz/wiki
 
 Для тех кто намерен помочь воссоздать интерактивный 3D прототип Храма Знаний  
 бесплатно научим работать в
+
 https://www.lightwave3d.com
 http://unity3d.com
 
