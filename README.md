@@ -3,7 +3,8 @@
 [![Join the chat at https://gitter.im/hramz/hramz](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hramz/hramz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Интерактивный 3D прототип Храма Знаний
 
-Идеи, предложения, вопросы https://hramz.userecho.com/topic/737785-interaktivnyij-3d-prototip-hrama-znanij/
+Идеи, предложения, вопросы
+https://hramz.userecho.com/topic/737785-interaktivnyij-3d-prototip-hrama-znanij/
 
 https://github.com/hramz/hramz/wiki
 
